@@ -1,3 +1,4 @@
+```
 │   main.py
 │   README.md
 │
@@ -10,3 +11,4 @@
 └───preprocessing - преобработка данных
         preprocessing.py
         __init__.py
+```
